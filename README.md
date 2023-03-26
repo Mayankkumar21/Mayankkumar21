@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a software developer with excellent communication skills.<br>Worked with various languages like Golang, Javascript,etc.<br>I keen problem solver who likes solving DSA problems.
+I am a software developer with excellent communication skills.<br>Worked with various languages like Golang, Javascript,etc.<br>I am a keen problem solver who likes solving DSA problems.
 
 
 ## 🌐 Socials:
